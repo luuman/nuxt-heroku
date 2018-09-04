@@ -4,6 +4,9 @@
   "description": "Nuxt.js project",
   "author": "luuman <512769206@qq.com>",
   "private": true,
+  "engines": {
+    "node": "8.9.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
